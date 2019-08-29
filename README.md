@@ -15,7 +15,7 @@ You can run the program by:(GNU/Linux)
 
 Make it executable
 
-> ```$chmod +x program.pyw```
+> ```$chmod +x Autopaste.pyw```
 
 then:
 
@@ -25,7 +25,7 @@ Use the run.py
 
 Open the run.py in text edtitor and edit the path:
 
-> ```path = '/path/program.pyw```
+> ```path = '/path/Autopaste.pyw```
 
 then save
 
